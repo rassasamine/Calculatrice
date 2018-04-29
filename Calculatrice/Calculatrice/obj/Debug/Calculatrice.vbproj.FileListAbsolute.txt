@@ -1,0 +1,13 @@
+c:\users\emine 'hussoka' rass\documents\visual studio 2017\Projects\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+c:\users\emine 'hussoka' rass\documents\visual studio 2017\Projects\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+c:\users\emine 'hussoka' rass\documents\visual studio 2017\Projects\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+c:\users\emine 'hussoka' rass\documents\visual studio 2017\Projects\Calculatrice\Calculatrice\bin\Debug\Calculatrice.xml
+c:\users\emine 'hussoka' rass\documents\visual studio 2017\Projects\Calculatrice\Calculatrice\obj\Debug\Calculatrice.vbprojResolveAssemblyReference.cache
+c:\users\emine 'hussoka' rass\documents\visual studio 2017\Projects\Calculatrice\Calculatrice\obj\Debug\Calculatrice.FrmMenu.resources
+c:\users\emine 'hussoka' rass\documents\visual studio 2017\Projects\Calculatrice\Calculatrice\obj\Debug\Calculatrice.FrmCalc1.resources
+c:\users\emine 'hussoka' rass\documents\visual studio 2017\Projects\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Resources.resources
+c:\users\emine 'hussoka' rass\documents\visual studio 2017\Projects\Calculatrice\Calculatrice\obj\Debug\Calculatrice.vbproj.GenerateResource.Cache
+c:\users\emine 'hussoka' rass\documents\visual studio 2017\Projects\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+c:\users\emine 'hussoka' rass\documents\visual studio 2017\Projects\Calculatrice\Calculatrice\obj\Debug\Calculatrice.xml
+c:\users\emine 'hussoka' rass\documents\visual studio 2017\Projects\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
+c:\users\emine 'hussoka' rass\documents\visual studio 2017\Projects\Calculatrice\Calculatrice\obj\Debug\Calculatrice.FrmCalc2.resources
